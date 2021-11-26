@@ -1,21 +1,17 @@
 <h1> Hi, I'm Agustin 👋🧑‍💻</h1>
 <img src="https://raw.githubusercontent.com/abasile22/abasile22/main/cover.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
+```
 
+```go
+type Me struct {
+    Name   string
+    year   int
+  }
 
-
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+func main(){
+  name := Agustin
+  
 }
 ```
 
